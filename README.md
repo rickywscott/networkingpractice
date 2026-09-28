@@ -1,5 +1,5 @@
 # networkingpractice
-Just me practicing applicable networking skills.
+
 The first step was to get hardware on a budget.
 I found an old Dell Optiplex on Marketplace for $60. It had an old 8th gen i5 processor and 8 gigs of DDR3 ram. I figured "why not?"
 I had some hard drives lying around, so I took apart the computer, cleaned everything, put new thermal paste on, and put it all back together with my drives.
